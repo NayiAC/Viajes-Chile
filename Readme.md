@@ -14,6 +14,8 @@ proyecto pág web Viajes Chile, en esta se encuentran imágenes de destinos tur�
 ## 🛠 Herramientas
 Javascript, HTML, CSS
 
+## github pages
+[Viajes Chile](https://nayiac.github.io/Viajes-Chile/)
 
 ## Authors
 
